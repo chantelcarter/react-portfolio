@@ -4,8 +4,8 @@ import perfume from "./assets/coming-soon.png"
 
 const header = {
   // all the properties are optional - can be left empty or deleted
-  homepage: 'https://www.linkedin.com/in/chantelalexiacarter/',
-  title: 'Chantel Carter'
+  homepage: '',
+  title: 'C.'
 }
 
 const about = {
